@@ -15,13 +15,13 @@ The topic will be how we can convert casual hover bike riders (Rebels) to annual
 ## WHO
 •	**Stakeholder** – Persona 1: Darth Vader (Director of Marketing)
 
-
+![Darth Vader](./images/darth_vader.png)
 
 •	**Audience** – 
 o	**Quantitative Audience**: Galactic Senate senators/members who do not understand the minutiae of the business; prefers top-level facts
 o	**Qualitative Audience**: Persona 2: Emperor Palpatine (chairman)
 
-
+![Emperor Palpatine](./images/palpatine.png)
 
 •	**Subject-Matter Experts** – Business intelligence Analysts and Data Analysts
 
