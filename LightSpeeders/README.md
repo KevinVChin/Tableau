@@ -44,7 +44,7 @@ The data has been made available by Motivate International Inc. under this [lice
 The 12 .zip files were downloaded, stored, and extracted into the /LightSpeeders/raw_trip_data/ directory.
 
 •	**Data Quality** – The files will need to be cleaned and combined. The data cleaning process done with Python can be view [here](https://github.com/KevinVChin/Tableau/blob/main/LightSpeeders/data_cleaning.ipynb) or link here:
-[https://github.com/KevinVChin/Google-Data-Analytics-Professional-Certificate/blob/main/data_cleaning.ipynb](https://github.com/KevinVChin/Tableau/blob/main/LightSpeeders/data_cleaning.ipynb)
+[https://github.com/KevinVChin/Tableau/blob/main/LightSpeeders/data_cleaning.ipynb](https://github.com/KevinVChin/Tableau/blob/main/LightSpeeders/data_cleaning.ipynb)
 
 •	**Data Timeliness** – The data goes back many years, but we will use data available for the last 12 months (June 2023 to May 2024).
 
