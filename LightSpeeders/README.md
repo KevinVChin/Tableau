@@ -1,6 +1,6 @@
 # LightSpeeders
 
-Data Visualization story can be found here:
+Data Visualization story can be found here:  
 https://public.tableau.com/app/profile/kevinvchin/viz/LightSpeeders/LightSpeeders
 
 ## EXECUTIVE SUMMARY
@@ -17,8 +17,8 @@ The topic will be how we can convert casual hover bike riders (Rebels) to annual
 
 ![Darth Vader](./images/darth_vader.png)
 
-•	**Audience** – 
-o	**Quantitative Audience**: Galactic Senate senators/members who do not understand the minutiae of the business; prefers top-level facts
+•	**Audience** –   
+o	**Quantitative Audience**: Galactic Senate senators/members who do not understand the minutiae of the business; prefers top-level facts  
 o	**Qualitative Audience**: Persona 2: Emperor Palpatine (chairman)
 
 ![Emperor Palpatine](./images/palpatine.png)
@@ -57,5 +57,5 @@ HOW
 
 •	**Presentation Vehicle** – 5 to 7-minute presentation on the senate floor; font needs to be larger for people with bad eyesight.
 
-Data Visualization story can be found here:
+Data Visualization story can be found here:  
 https://public.tableau.com/app/profile/kevinvchin/viz/LightSpeeders/LightSpeeders
